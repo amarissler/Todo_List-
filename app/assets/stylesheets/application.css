@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  font-family: sans-serif;
+}
+
+h1{
+  color: purple
+}
+th {
+  color: red;
+}
+
+tbody {
+  font-weight: 70;
+  color: purple; 
+}
